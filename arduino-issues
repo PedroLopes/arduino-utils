@@ -1,0 +1,3 @@
+Serial Port in use (constant, any arduino type, etc) on Mac OSX
+> sudo mkdir /var/lock
+> sudo chmod a+rw /var/lock
