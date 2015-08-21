@@ -1,5 +1,5 @@
 const int firstPin = 1; //change to first Pin on arduino
-const int lastPint = 13; //change to last Pin on arduino
+const int lastPint = 20; //change to last Pin on arduino
 int skipPins[] = {1, 2}; //select which pins you don't want to Bit Bash
 const int time = 500; //ms of bit on/off
 const int skip_array_size = sizeof(skipPins)/sizeof(int);
